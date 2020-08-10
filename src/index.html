@@ -1,14 +1,30 @@
 <!DOCTYPE html>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Caesar Cipher</title>
-    <link rel="stylesheet" href="style.css" />
-  </head>
-  <body>
-    <div id="root">
-      <h1>Hello world!</h1>
-    </div>
-    <script src="index.js" type="module"></script>
-  </body>
+
+<head>
+  <meta charset="utf-8">
+  <title>ENCLAVE</title>
+  <link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body>
+  <div id="root">
+    <h1>ENCLAVE</h1>
+    <p>Envía mensajes secretos por Whatsapp</p>
+    <p>Clave:</p>
+    <input type="number" id="clave" size="4">
+  </div>
+  <div>
+    <p>Mensaje:</p>
+    <form>
+      <textarea name="text" rows="8" cols="80" placeholder="Escribe aquí tu mensaje para Codificar/Descodificar" id="mensajeUsuario"></textarea>
+      <br>
+      <button type="button" id="codificar">Codificar</button>
+      <button type="button" id="descodificar">Descodificar</button>
+      <button type="button" id="copiar">Copiar</button>
+    </form>
+  </div>
+  <script src="index.js" type="module"></script>
+</body>
+
 </html>

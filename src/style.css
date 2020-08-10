@@ -1,0 +1,61 @@
+body {
+      background-image: url("./Imagenes/wspp.jpg");/* Colocar siempre las carpetas adicionales dentro de la carpeta SRC*/
+      background-image: no-repeat;
+      background-image: fixed;
+      background-image: center;
+      background-size: cover;
+      font-size: 1.3em; /*Tamaño de letra*/
+      font-family: cursive;
+      font-weight: 600;
+      text-align: center; /* Texto en el centro*/
+  }
+
+h1 { 
+    color: white;
+    text-shadow: 7px 2px 4px black,7px 2px 4px black; /*Sombra al texto*/
+    /*Agregando la " , " y repitiendo los px se logra más intensidad a la sombra*/
+  }
+
+p {
+   color: white;
+   text-shadow: 5px 2px 5px black, 5px 2px 5px black, 5px 2px 5px black, 5px 2px 5px black; 
+   font-size: 1em;
+}
+
+#clave { /*Se agreg # para dar estilo a un ID en específico*/
+    border-radius: 2em; /*Para dar curva a los cuadrantes*/
+    border: 10px  double #128c7e; /*Grosor del borde - tipo doble - color*/
+    box-shadow: 5px 10px 10px black; /*Sombra a la caja*/
+    font-size: 1em;
+    font-weight: bold; /* Para poner texto en negrita*/
+    text-align: center;
+  }
+
+#mensajeUsuario {
+    border-radius: 2em;
+    border: 10px  double #128c7e;
+    box-shadow: 5px 10px 10px black;
+    font-size: 1em;
+    font-weight: bold;
+    text-align: center;
+
+  }
+
+#codificar, #descodificar {
+    padding: 0.5em; /*Espacio que existe del texto hacia el borde*/
+    border-radius: 3em;
+    background-color: #f8cc07; /*Color de fondo*/
+    border: 7px  double white;
+    font-size: 0.9em;
+    font-weight: bold;
+    box-shadow: 5px 10px 10px black;
+  }
+
+#copiar {
+    padding: 0.5em;
+    border-radius: 5em;
+    border: 5px  double #128c7e;
+    font-size: 0.8em;
+    font-weight: bold;
+    box-shadow: 5px 10px 10px black;
+  }
