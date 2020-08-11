@@ -41,7 +41,7 @@ p {
 
   }
 
-#codificar, #descodificar {
+#cifrar, #descifrar {
     padding: 0.5em; /*Espacio que existe del texto hacia el borde*/
     border-radius: 3em;
     background-color: #f8cc07; /*Color de fondo*/
