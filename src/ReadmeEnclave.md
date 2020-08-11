@@ -15,18 +15,20 @@ Una vez ejecutado, se creará la carpeta LIM013-cipher el cual contiene los cód
 
 Enclave es el primer proyecto diseñado dentro del Bootcamp de Laboratoria :thumbsup:. El cual utiliza el *Cifrado Cesar* como modelo para realizar el cifrado del mensaje escrito por el usuario. Asimismo, se desarrolla conocimientos en JavaScript para dar vida al proyecto.
 
-## ¿Qué es Enclave?**
+## ¿Qué es Enclave?
 
 Enclave te ayudará a enviar mensajes secretos por whatsapp o cualquier otra red social que utilices; para poder proteger la información enviada.
 
+![Prototipo final](https://drive.google.com/file/d/1N7XNK82VHuLhZjHe1Vj9gPOkkM8yx1LN/view?usp=sharing)
+
 **¿Cómo funciona?**
 
-:point_right: Para usar Enclave iniciarás colocando una *Clave* que incluya solo números (el número que se te ocurra, no hay límites!)
-:point_right: Ahora escribe el *mensaje* que deseas Codificar 
-:point_right: Click en el botón *Cifrar*
-:point_right: Muy bien! verás que tu mensaje original ha cambiado a otro, donde las letras no son las mismas
-:point_right: Copia el mensaje con el botón *Copiar*
-:point_right: Listo! ya tienes un mensaje cifrado. Cuando envíes el mensaje, recuerda compartir tu clave. De esta manera, quien recibió el mensaje pueda *Descifrarlo* 
+- :point_right: Para usar Enclave iniciarás colocando una *Clave* que incluya solo números (el número que se te ocurra, no hay límites!)
+- :point_right: Ahora escribe el *mensaje* que deseas Codificar 
+- :point_right: Click en el botón *Cifrar*
+- :point_right: Muy bien! verás que tu mensaje original ha cambiado a otro, donde las letras no son las mismas
+- :point_right: Copia el mensaje con el botón *Copiar*
+- :point_right: Listo! ya tienes un mensaje cifrado. Cuando envíes el mensaje, recuerda compartir tu clave. De esta manera, quien recibió el mensaje pueda *Descifrarlo* 
 
 ## Investigación UX:
 
