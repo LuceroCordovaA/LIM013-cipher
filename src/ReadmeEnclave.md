@@ -1,4 +1,4 @@
-![](1encabezado.png)
+![](Imagenes/1encabezado.png)
 
 # Bienvenidx al repositorio oficial de Enclave
 ___
@@ -19,7 +19,7 @@ Enclave es el primer proyecto diseñado dentro del Bootcamp de Laboratoria :thum
 
 Enclave te ayudará a enviar mensajes secretos por whatsapp o cualquier otra red social que utilices; para poder proteger la información enviada.
 
-![](2prototipoF.PNG)
+![](Imagenes/2prototipoF.PNG)
 
 **¿Cómo funciona?**
 
@@ -41,10 +41,10 @@ Enclave te ayudará a enviar mensajes secretos por whatsapp o cualquier otra red
 
 3. **Prototipo en papel:** Enclave al inicio contaba con el siguiente prototipo de papel, el cual fue modificado para mejorar la experiencia del usuario, en el transcurso de la creación del proyecto:
 
-![](3prototipoP.PNG)
+![](Imagenes/3prototipoP.PNG)
 
 4. **Feedback recibido:** Se recomienda la integración de más códigos ASCII para que el cifrado sea más completo y no se limite a una cierta cantidad de caracteres
 5. **Prototipo final:** La app web ha sido diseñada para el rápido uso del usuario. En una sola vista podrá cifrar/descifrar el mensaje obtenido. A continuación se muestra el prototipo de la app web:
 
-![](4Prototipo.png)
+![](Imagenes/4Prototipo.png)
 
