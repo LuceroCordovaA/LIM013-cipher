@@ -1,4 +1,4 @@
-![](https://drive.google.com/file/d/1uJJ6X1CUbFeAeCiJ8WK5gkNRY0ZUXhw0/view?usp=sharing)
+![](1encabezado.png)
 
 # Bienvenidx al repositorio oficial de Enclave
 ___
@@ -19,7 +19,7 @@ Enclave es el primer proyecto diseñado dentro del Bootcamp de Laboratoria :thum
 
 Enclave te ayudará a enviar mensajes secretos por whatsapp o cualquier otra red social que utilices; para poder proteger la información enviada.
 
-![Prototipo final](https://drive.google.com/file/d/1N7XNK82VHuLhZjHe1Vj9gPOkkM8yx1LN/view?usp=sharing)
+![](2prototipoF.PNG)
 
 **¿Cómo funciona?**
 
@@ -36,14 +36,15 @@ Enclave te ayudará a enviar mensajes secretos por whatsapp o cualquier otra red
 
 2. **Solución de problemas:** El presente proyecto permite dar solución a los inconvenientes de enviar mensaje con información importante por medio de Whatsapp; aplicativo usado por el 64% de la población en Latinoamerica. Debido al uso constante estamos vulnerados a ser víctimas del robo de celulares y hackers de redes sociales, por ello es importante contar con una app web que permita cifrar nuestros mensajes compartidos en los chats. De esta manera brindaremos solución a los usuarios y usuarios bussiness. 
 
-> https://es.statista.com/grafico/17500/uso-de-whatsapp-en-america-latina/
+>El 64% de la población Lationamericana usa Whatsapp:
+>https://es.statista.com/grafico/17500/uso-de-whatsapp-en-america-latina/
 
 3. **Prototipo en papel:** Enclave al inicio contaba con el siguiente prototipo de papel, el cual fue modificado para mejorar la experiencia del usuario, en el transcurso de la creación del proyecto:
 
-![](https://drive.google.com/file/d/1SmDaTKUCz7UhNXFwyc9-j9AxSSWacfKD/view?usp=sharing)
+![](3prototipoP.PNG)
 
 4. **Feedback recibido:** Se recomienda la integración de más códigos ASCII para que el cifrado sea más completo y no se limite a una cierta cantidad de caracteres
 5. **Prototipo final:** La app web ha sido diseñada para el rápido uso del usuario. En una sola vista podrá cifrar/descifrar el mensaje obtenido. A continuación se muestra el prototipo de la app web:
 
-![](https://drive.google.com/file/d/1vXWiuqFJIbWO5KhkLISrC2ZyQa3laYN1/view?usp=sharing)
+![](4Prototipo.png)
 
